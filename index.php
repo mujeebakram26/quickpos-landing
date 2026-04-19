@@ -134,6 +134,7 @@ $page_title = "QuickPOS – The Last POS System You'll Ever Need";
 </section>
 
 <!-- ========== FEATURES SECTION ========== -->
+<!-- [POS-3] Features Section - 4 feature cards with icons -->
 <section class="features" id="features">
   <div class="section-container">
     <div class="section-label">FEATURES</div>
