@@ -1,3 +1,4 @@
+// [POS-BUG-1] Fixed: Mobile menu now closes when nav link is clicked
 // main.js – QuickPOS Landing Page JS
 
 // ---- Navbar scroll effect ----
