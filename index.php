@@ -45,6 +45,7 @@ $page_title = "QuickPOS – The Last POS System You'll Ever Need";
 </header>
 
 <!-- ========== HERO SECTION ========== -->
+<!-- [POS-2] Hero Section - headline, CTA, stats, mockup -->
 <section class="hero" id="home">
   <div class="hero-bg-grid"></div>
   <div class="hero-glow"></div>
