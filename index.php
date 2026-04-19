@@ -1,4 +1,5 @@
 <?php
+// [POS-1] Navigation & Header - Completed
 // index.php - QuickPOS Landing Page
 $page_title = "QuickPOS – The Last POS System You'll Ever Need";
 ?>
